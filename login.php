@@ -10,7 +10,7 @@ if(isset($_POST['submit'])) {
 			echo "Please enter correct username or password";
 		}
 	} else {
-		echo "Please enter required fields";
+		echo "Please enter all the fields";
 	}
 }
 ?>
